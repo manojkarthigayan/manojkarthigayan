@@ -1,5 +1,18 @@
 ## Hi there 👋
 Manoj Karthigayan DK, with the title Data Scientist | Machine Learning Engineer.
+
+
+
+## About Me 
+I'm a Data Scientist and Machine Learning Engineer passionate about solving real-world problems.
+
+
+
+## Current Focus 
+- - Skincare Recommendation System
+- - AI Meeting Summarizer
+- - AI Resume Analyzer
+- - Olympic Games Analysis and Visualization 
 <!--
 **manojkarthigayan/manojkarthigayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
