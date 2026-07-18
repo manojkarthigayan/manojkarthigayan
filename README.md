@@ -1,5 +1,5 @@
-Hi there 👋
-Manoj Karthikeyan DK, with the title Data Scientist | Machine Learning Engineer.
+## Hi there 👋
+Manoj Karthigayan DK, with the title Data Scientist | Machine Learning Engineer.
 <!--
 **manojkarthigayan/manojkarthigayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
