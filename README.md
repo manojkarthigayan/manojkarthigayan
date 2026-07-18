@@ -1,5 +1,5 @@
-## Hi there 👋
-Manoj Karthigayan DK, with the title Data Scientist | Machine Learning Engineer.
+## Hi there it's Manoj👋
+
 
 
 
